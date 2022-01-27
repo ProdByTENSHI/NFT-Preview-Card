@@ -103,7 +103,13 @@ h1:hover {
 }
 .avatar-display span {
   padding: 2.5%;
-  margin-left: 5%;
+  color: #8bacda;
+}
+.avatar-display .creation-of-text {
+  color: white;
+}
+.avatar-display .creation-of-text:hover {
+  color: #00fff7;
 }
 .avatar-display img {
   float: left;

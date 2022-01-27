@@ -117,7 +117,15 @@ h1:hover {
 
   span {
     padding: 2.5%;
-    margin-left: 5%;
+    color: $Soft-Blue;
+  }
+
+  .creation-of-text {
+    color: $White;
+  }
+
+  .creation-of-text:hover {
+    color: $Cyan;
   }
 
   img {
